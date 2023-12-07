@@ -1,0 +1,6 @@
+Select Инд_номер_тура FROM Туры
+                      Inner join Путевки
+                      on Инд_номер_тура.Туры=Страна_назначения.Путевки
+Where Страна_назначения.Путевки=Германия 
+DELETE FROM [messages] 
+WHERE ([datetime]< '1.02.21' AND [datetime]> '1.12.2020')

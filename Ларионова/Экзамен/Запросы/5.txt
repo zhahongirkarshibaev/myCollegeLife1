@@ -1,0 +1,4 @@
+Select Тип_продукта FROM Продукты
+                    inner join Поставки 
+                    on Тип_продукта.Продукты=Фирма.Поставки
+Where (((Дата.Поставки.Поставки) BETWEEN DateSerial(Year(Date())), month(Date())-1,1) 
