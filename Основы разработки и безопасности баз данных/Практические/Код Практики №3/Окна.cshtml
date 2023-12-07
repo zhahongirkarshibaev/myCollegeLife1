@@ -1,0 +1,44 @@
+﻿/*
+ * Сделано в SharpDevelop.
+ * Пользователь: zhaho
+ * Дата: 25.02.2022
+ * Время: 11:02
+ * 
+ * Для изменения этого шаблона используйте Сервис | Настройка | Кодирование | Правка стандартных заголовков.
+ */
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace Практическая
+{
+	/// <summary>
+	/// Description of Form1.
+	/// </summary>
+	public partial class Form1 : Form
+	{
+		// Статическая переменная ссылочного типа для обращения
+		// к экземплярам класса
+ 		public static Form1 chf = null;
+		// Переменная для контроля состояния формы массиве состояний
+ 		public int numChf = -1;
+ 		
+		public Form1()
+		{
+			chf = this;
+			//
+			// The InitializeComponent() call is required for Windows Forms designer support.
+			//
+			InitializeComponent();
+			
+			//
+			// TODO: Add constructor code after the InitializeComponent() call.
+			//
+		}
+		
+		void Form1FormClosing(object sender, FormClosingEventArgs e)
+		{
+			MainForm.mf.cfc.SetNull(numChf);
+		}
+	}
+}

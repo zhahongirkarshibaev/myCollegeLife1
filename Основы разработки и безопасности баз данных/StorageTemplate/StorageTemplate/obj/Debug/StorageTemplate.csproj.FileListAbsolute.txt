@@ -1,0 +1,58 @@
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csprojResolveAssemblyReference.cache
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.MainForm.resources
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csproj.GenerateResource.Cache
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe.config
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.pdb
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.exe
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.pdb
+C:\Users\ТМ\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.Form1.resources
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe.config
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.pdb
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csprojResolveAssemblyReference.cache
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.Form1.resources
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.MainForm.resources
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csproj.GenerateResource.Cache
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.exe
+C:\Users\VET\Documents\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.pdb
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe.config
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.pdb
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.Form1.resources
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.MainForm.resources
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.exe
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.pdb
+C:\Users\User\OneDrive\Документы\SharpDevelop Projects\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.FormDostup.resources
+D:\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe.config
+D:\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe
+D:\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.pdb
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csprojResolveAssemblyReference.cache
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.Form1.resources
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.FormDostup.resources
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.MainForm.resources
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csproj.GenerateResource.Cache
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.exe
+D:\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.pdb
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe.config
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.pdb
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csprojResolveAssemblyReference.cache
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.Form1.resources
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.FormDostup.resources
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.MainForm.resources
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csproj.GenerateResource.Cache
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.exe
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.pdb
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe.config
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.exe
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\bin\Debug\StorageTemplate.pdb
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csprojResolveAssemblyReference.cache
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.Form1.resources
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.FormDostup.resources
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.MainForm.resources
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.csproj.GenerateResource.Cache
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.exe
+C:\Users\zhaho\OneDrive\Рабочий стол\Колледж\Основы разработки и безопасности баз данных\StorageTemplate\StorageTemplate\obj\Debug\StorageTemplate.pdb

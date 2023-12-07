@@ -1,0 +1,136 @@
+Guid
+dataSet1
+CreateDataSet
+2
+7
+7
+1
+1
+Kino_Gigants
+Гиганты киноиндустрии
+2
+Studios
+Студии
+1
+1
+id_number_for_Studios
+Индивидуальный номер для студии
+1
+2
+Studio_names
+Названия_студий
+2
+3
+id_number
+индивидуальный номер
+2
+4
+Subsidiaries
+Дочерние компании
+2
+5
+Annual_incomes
+Годовой доход
+2
+6
+Platforms
+Платформы
+2
+7
+Auditories
+Аудитория
+1
+1
+Индивидуальный номер для студии
+Guid
+True
+False
+False
+0
+0
+0
+
+1
+2
+Названия_студий
+Guid
+False
+True
+False
+0
+0
+0
+
+2
+3
+индивидуальный номер
+Guid
+True
+False
+False
+0
+0
+0
+
+2
+4
+Дочерние компании
+Guid
+False
+True
+False
+0
+0
+0
+
+2
+5
+Годовой доход
+Guid
+False
+True
+False
+0
+0
+0
+
+2
+6
+Платформы
+Guid
+False
+True
+False
+0
+0
+0
+
+2
+7
+Аудитория
+Guid
+False
+True
+False
+0
+0
+0
+
+1
+Kino_Gigants
+Гиганты киноиндустрии
+1
+id_number_for_Studios
+Индивидуальный номер для студии
+2
+Studios
+Студии
+3
+id_number
+индивидуальный номер
+Are
+Входят
+gg
+gg
+Cascade
+Cascade
