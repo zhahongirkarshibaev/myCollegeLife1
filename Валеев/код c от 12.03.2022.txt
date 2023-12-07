@@ -1,0 +1,40 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main()
+{
+    srand(time(NULL));
+    int *M,n,i_max=0, i_min=0;
+    printf("Введите кол. элементов\n");
+    scanf("%d",&n);
+    M=new int[n];
+    for(int i=0; i<n; i++)
+    {
+        M[i] = rand()%50-9;
+        printf("%d ", M[i]);
+    }
+    int max=M[0], min=M[0];
+    for(int i=1;i<n;i++)
+    {
+        if(M[i]>max)
+        {
+            max=M[i];
+            i_max=i;
+        }
+        if(M[i]<min)
+        {
+            min=M[i];
+            i_min=i;
+        }
+    }
+    // Метод трех стаканов
+    int temp = M[i_max];
+    M[i_max] = M[i_min];
+    M[i_min] = temp;
+    printf("\n");
+    for(int i=0; i<n; i++)
+        printf("%d ", M[i]);
+    delete []M;
+    return 0;
+}
